@@ -2,7 +2,7 @@
 
 **DevOps Engineer | Site Reliability Engineer | DevSecOps Engineer | Cloud Enthusiast**  
 
-- 🔭 Currently working at **[Alnafi.cloud](https://alnafi.cloud/)** as a **Linux & DevOps Engineer**  
+- 🔭 Currently working at **[Alnafi.cloud](https://alnafi.cloud/)** as a **DevOps Engineer**  
 - 🌱 Expanding my skills in **Linux, Docker, Kubernetes, Terraform, and Cloud Security**  
 - 💬 Ask me about **Linux, DevOps, and Cloud solutions**  
 - 📫 Reach me at: [mo.rasikhriaz@gmail.com]
@@ -23,9 +23,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![Rasikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasikh11&show_icons=true&theme=radical)  
+![Rasikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasikh111&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikh11&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikh111&layout=compact&theme=radical)  
 
 ---
 
