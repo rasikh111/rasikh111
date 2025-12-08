@@ -2,7 +2,7 @@
 
 **DevOps Engineer | Site Reliability Engineer | DevSecOps Engineer | Cloud**  
 
-- 🔭 Currently working at **[Alnafi.cloud](https://go-cloud.io)** as a **DevOps Engineer**  
+- 🔭 Currently working at **[GO Cloud (Pvt.) Ltd.](https://go-cloud.io)** as a **DevOps Engineer**  
 - 🌱 Expanding my skills in **Linux, Docker, Kubernetes, Terraform, and Cloud Security**  
 - 💬 Ask me about **Linux, DevOps, and Cloud solutions**  
 - 📫 Reach me at: [mo.rasikhriaz@gmail.com]
