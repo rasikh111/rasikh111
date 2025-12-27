@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Muhammad Rasikh  Riaz
+# Hi there, I'm Muhammad Rasikh  Riaz
 
-**DevOps Engineer | Site Reliability Engineer | DevSecOps Engineer | Cloud**  
+**DevOps Engineer | Site Reliability Engineer | DevSecOps Engineer**  
 
 - 🔭 Currently working at **[GO Cloud (Pvt.) Ltd.](https://go-cloud.io)** as a **DevOps Engineer**  
 - 🌱 Expanding my skills in **Linux, Docker, Kubernetes, Terraform, and Cloud Security**  
